@@ -41,10 +41,4 @@ chmod +x download_lorcana_data.sh
 - `GET /api/sets/{id}` : Détails d'un set spécifique
 - `GET /api/sets/{id}/cards` : Liste des cartes d'un set spécifique
 
-## Crédits
 
-Ce projet utilise les données de [LorcanaJSON](https://lorcanajson.org/), conformément à la [politique de la communauté Ravensburger](https://cdn.ravensburger.com/lorcana/community-code-en).
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
